@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  dabe: 'practica-app-crud-react-firebase-v1'
+  base: 'practica-app-crud-react-firebase-v1'
 })
